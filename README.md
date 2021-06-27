@@ -76,6 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fizzo999&show_icons=true&theme=merko">
 </p>
 
+<br/>
+
 <h3 align="center">### 💖 Thanks for stopping by! 💖
   <br/>
   Profile views
