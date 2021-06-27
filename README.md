@@ -39,10 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fizzo999&show_icons=true&theme= tokyonight" />
 </a>
 
-### 💖 Thanks for stopping by! 💖
 
-![Profile views](https://gpvc.arturio.dev/fizzo999)
-  
   
 <h2 align="center">Languages</h2>
 
@@ -78,3 +75,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fizzo999&show_icons=true&theme=merko">
 </p>
+
+<h3 align="center">### 💖 Thanks for stopping by! 💖
+  <br/>
+  Profile views
+  <img src="https://gpvc.arturio.dev/fizzo999">
+</h3>
+
+  
