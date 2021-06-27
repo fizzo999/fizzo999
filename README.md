@@ -79,7 +79,7 @@
 <br/>
 
 <h3 align="center">### 💖 Thanks for stopping by! 💖 </h3>
-<br/>
+
 <h3 align="center">
   Profile views
   <img src="https://gpvc.arturio.dev/fizzo999">
