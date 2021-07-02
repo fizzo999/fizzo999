@@ -5,14 +5,13 @@
   Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
 </h2>
 
-<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">my portfolio - come visit</a></h2>
-
 <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
   <p align="center">
     <img src="./Portfolio-Preview.gif" width="1000px">
   </p>
 </a>
 
+<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">my portfolio - come visit</a></h2>
 
 <p align="center">
   <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px">
