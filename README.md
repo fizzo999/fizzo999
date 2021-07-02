@@ -9,7 +9,7 @@
 
 <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
   <p align="center">
-    <img src="./Portfolio-Preview.gif" width="500px">
+    <img src="./Portfolio-Preview.gif" width="1000px">
   </p>
 </a>
 
