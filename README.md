@@ -11,11 +11,11 @@
   </p>
 </a>
 
-<a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
-  <p align="center">
-    <video src="./2021-07-04_10-35-41.mp4" width="1000px">
-  </p>
-</a>
+<!-- <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
+  <video autoplay loop muted plays-inline >
+    <source src="./2021-07-04_10-35-41.mp4" type="video/mp4"/>
+  </video>
+</a> -->
 
 <h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">my portfolio - come visit</a></h2>
 
