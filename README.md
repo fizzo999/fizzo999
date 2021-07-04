@@ -11,6 +11,12 @@
   </p>
 </a>
 
+<a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
+  <p align="center">
+    <img src="./2021-07-04_10-35-41.mp4" width="1000px">
+  </p>
+</a>
+
 <h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">my portfolio - come visit</a></h2>
 
 <p align="center">
