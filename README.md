@@ -1,9 +1,14 @@
-<h2 align="center">< Hello
+<h2 align="center">Hello & Welcome to my GitHub Page <br/>
   <a href="https://www.linkedin.com/in/fizzo999/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:fizzo999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"></a>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> />
-  Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+<!--   Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> -->
 </h2>
+
+<h2 align="center">
+  <a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">come see my portfolio <br/> click on the animated GIF below 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+  <a/>
+<h2/> 
 
 <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
   <p align="center">
@@ -17,8 +22,8 @@
   </video>
 </a> -->
 
-<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">my portfolio - come visit</a></h2>
-<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">click on the animated GIF above or right here to go to https://fizzo-portfolio2021.herokuapp.com/</a></h2>
+<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">or click right here <br/>https://fizzo-portfolio2021.herokuapp.com/</a></h2>
+
 
 <p align="center">
   <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px">
@@ -76,7 +81,6 @@
 <h3 align="center"> 💖 Thanks for stopping by! 💖 </h3>
 
 <h3 align="center">
-  Profile views
   <img src="https://gpvc.arturio.dev/fizzo999">
 </h3>
 
