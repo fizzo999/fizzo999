@@ -76,7 +76,7 @@
 <h3 align="center"> 📷 Portfolio animated picture created with SNAGIT: https://snagit.en.softonic.com/  📷 </h3>
 <h3 align="center"> 😀 icons from: https://emojipedia.org/  😀 </h3>
 <h3 align="center"> 🎬 Youtube tutorial to get started with making an awesome github page: Make your GitHub profile look more beautiful !! ❤️❤️ https://www.youtube.com/watch?v=4ia8lu-Ol70  🎬 </h3>
-
+<h3 align="center"> 📷 top banner and LinkedIn Ad created with canva: https://www.canva.com/ 📷 </h3>
 <h3 align="center"> 💊 badges from shields.io - https://shields.io/  💊 </h3>
     
 <!-- <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
