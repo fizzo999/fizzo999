@@ -8,10 +8,14 @@
 <h2 align="center">
   <a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">come see my portfolio <br/><br/>
     <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px"><br/><br/>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
     click on the animated GIF below 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"><br/></br/>
     <img src="./portfolioNEW-07-04-2021shortVersionSmall.gif" width="1000px"><br/><br/>
-    or click right here <br/><br/>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+    or click right here 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+    <br/><br/>
     https://fizzo-portfolio2021.herokuapp.com/ <br/>   
   <a/>
 
