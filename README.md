@@ -1,34 +1,19 @@
-<h2 align="center">Hello & Welcome to my GitHub Page <br/>
+<img align="center" src="./WELCOME.gif">
+<h2 align="center">
   <a href="https://www.linkedin.com/in/fizzo999/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:fizzo999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"></a>
 <!--   Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> -->
 </h2>
 
 <h2 align="center">
-  <a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">come see my portfolio <br/> click on the animated GIF below 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+  <a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">come see my portfolio <br/><br/>
+    <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px"><br/><br/>
+    click on the animated GIF below 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"><br/></br/>
+    <img src="./portfolioNEW-07-04-2021shortVersionSmall.gif" width="1000px"><br/><br/>
+    or click right here <br/><br/>
+    https://fizzo-portfolio2021.herokuapp.com/ <br/>   
   <a/>
-<h2/> 
-
-<a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
-  <p align="center">
-    <img src="./portfolioNEW-07-04-2021shortVersionSmall.gif" width="1000px">
-  </p>
-</a>
-
-<!-- <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
-  <video autoplay loop muted plays-inline >
-    <source src="./2021-07-04_10-35-41.mp4" type="video/mp4"/>
-  </video>
-</a> -->
-
-<h2 align="center"><a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">or click right here <br/>https://fizzo-portfolio2021.herokuapp.com/</a></h2>
-
-
-<p align="center">
-  <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px">
-</p>
-
 
 <h2 align="center">
   <a align="center" href="https://github.com/fizzo999/github-readme-stats">
@@ -93,7 +78,12 @@
 <h3 align="center"> 🎬 Youtube tutorial to get started with making an awesome github page: Make your GitHub profile look more beautiful !! ❤️❤️ https://www.youtube.com/watch?v=4ia8lu-Ol70  🎬 </h3>
 
 <h3 align="center"> 💊 badges from shields.io - https://shields.io/  💊 </h3>
-
+    
+<!-- <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
+  <video autoplay loop muted plays-inline >
+    <source src="./2021-07-04_10-35-41.mp4" type="video/mp4"/>
+  </video>
+</a> -->
 <!--
 **fizzo999/fizzo999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
