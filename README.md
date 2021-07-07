@@ -73,6 +73,8 @@
   <img src="https://gpvc.arturio.dev/fizzo999">
 </h3>
 
+[![Fizzo's github activity graph](https://activity-graph.herokuapp.com/graph?username=fizzo999&theme=redical)](https://github.com/fizzo999/github-readme-activity-graph)
+
 <hr/>
 
 <h3 align="center"> 🛠️ Resources Used to Build This Repo: 🛠️ </h3>
