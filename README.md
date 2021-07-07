@@ -78,7 +78,7 @@
 <hr/>
 
 <h3 align="center"> 🛠️ Resources Used to Build This Repo: 🛠️ </h3>
-<h3 align="center"> 💡 Inspiration for design: Audrey Patterson https://github.com/arpatterson31 - Jason Quaglia https://github.com/jquaglia - Hexx king https://github.com/HexxKing  💡 </h3>
+<h3 align="center"> 💡 Inspiration for design: Audrey Patterson https://github.com/arpatterson31 - Jason Quaglia https://github.com/jquaglia - Hexx king https://github.com/HexxKing - Aloyisious https://github.com/AL0YSI0US 💡 </h3>
 <h3 align="center"> 📷 Portfolio animated picture created with SNAGIT: https://snagit.en.softonic.com/  📷 </h3>
 <h3 align="center"> 😀 icons from: https://emojipedia.org/  😀 </h3>
 <h3 align="center"> 🎬 Youtube tutorial to get started with making an awesome github page: Make your GitHub profile look more beautiful !! ❤️❤️ https://www.youtube.com/watch?v=4ia8lu-Ol70  🎬 </h3>
