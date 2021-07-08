@@ -1,7 +1,24 @@
-<img align="center" src="./assets/WELCOME.gif">
 <h2 align="center">
-  <a href="https://www.linkedin.com/in/fizzopannosch/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"  width="120px"></a>
-  <a href="mailto:fizzo999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"  width="100px"></a>
+  <img src="./assets/WELCOME.gif">
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/fizzopannosch/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/LinkedIn-JosephSteel.gif"  width="100px">
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/fizzopannosch/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"  width="120px">
+  </a>
+  <br/>
+  <a href="mailto:fizzo999@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" width="140px">
+  </a>
+  <br/>
+  <a href="mailto:fizzo999@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"  width="100px">
+  </a>
+
+
 <!--   Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> -->
 </h2>
 
@@ -84,7 +101,8 @@
 <h3 align="center"> 🎬 Youtube tutorial to get started with making an awesome github page: Make your GitHub profile look more beautiful !! ❤️❤️ https://www.youtube.com/watch?v=4ia8lu-Ol70  🎬 </h3>
 <h3 align="center"> 📷 top banner and LinkedIn Ad created with canva: https://www.canva.com/ 📷 </h3>
 <h3 align="center"> 💊 badges from shields.io - https://shields.io/  💊 </h3>
-    
+<h3 align="center"> LinkedIn animation by JosephSteel - vimeo - https://vimeo.com/189468305  </h3>
+<h3 align="center"> jumping gmail animation from dribble - https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif  </h3>    
 <!-- <a href="https://fizzo-portfolio2021.herokuapp.com/" target="_blank">
   <video autoplay loop muted plays-inline >
     <source src="./2021-07-04_10-35-41.mp4" type="video/mp4"/>
