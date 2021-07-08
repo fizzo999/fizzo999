@@ -1,4 +1,4 @@
-<img align="center" src="./WELCOME.gif">
+<img align="center" src="./assets/WELCOME.gif">
 <h2 align="center">
   <a href="https://www.linkedin.com/in/fizzopannosch/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"  width="120px"></a>
   <a href="mailto:fizzo999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"  width="100px"></a>
@@ -9,14 +9,13 @@
   <img src="https://gpvc.arturio.dev/fizzo999" width="200px">
 </h3>
 
-
 <h2 align="center">
   <a href="https://fizzo-portfolio2021.herokuapp.com/"  target="_blank">come see my portfolio <br/><br/>
     <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/github-sponsors-logo.png" width="500px"><br/><br/>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
     click on the animated GIF below 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"><br/></br/>
-    <img src="./portfolioNEW-07-04-2021shortVersionSmall.gif" width="1000px"><br/><br/>
+    <img src="./assets/portfolioNEW-07-04-2021shortVersionSmall.gif" width="1000px"><br/><br/>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
     or click right here 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
@@ -30,8 +29,6 @@
   </a>
 </h2>
 
-
-  
 <h2 align="center">Languages</h2>
 
 <p align="center">
@@ -42,7 +39,6 @@
 <h2 align="center">
   <a href="https://github.com/fizzo999/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fizzo999&layout=compact&theme=tokyonight&card_width=500" /></a>
 </h2>
-
 
 <h2 align="center">Tools</h2>
 <p align="center">
@@ -64,7 +60,6 @@
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fizzo999&show_icons=true&theme=merko">
