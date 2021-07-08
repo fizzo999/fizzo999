@@ -1,7 +1,7 @@
 <img align="center" src="./WELCOME.gif">
 <h2 align="center">
-  <a href="https://www.linkedin.com/in/fizzopannosch/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="mailto:fizzo999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fizzopannosch/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:fizzo999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white"></a>
 <!--   Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"> -->
 </h2>
 
